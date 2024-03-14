@@ -74,8 +74,28 @@
           ]
         }
       ],
-      "DatabasesStaticDataObjects": null,
-      "DatabasesScopeObjects": null
+      "DatabasesStaticDataObjects": [
+        {
+          "StaticDataObjects": [
+            {
+              "UniqueIndex": "DBM_P_ID",
+              "schema": "",
+              "name": "TEST",
+              "type": "TABLE"
+            }
+          ],
+          "DatabaseId": "4f1ce09d-d448-474d-b2f1-dfdedb49ab20",
+          "DatabaseAliasName": "DZPB_DB1"
+        }
+      ],
+      "DatabasesScopeObjects": [
+        {
+          "ExcludeObjects": [],
+          "IncludeObjects": [],
+          "DatabaseId": "4f1ce09d-d448-474d-b2f1-dfdedb49ab20",
+          "DatabaseAliasName": "DZPB_DB1"
+        }
+      ]
     }
   ],
   "GlobalConfigurations": null,
