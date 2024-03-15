@@ -82,6 +82,12 @@
               "schema": "",
               "name": "TEST",
               "type": "TABLE"
+            },
+            {
+              "UniqueIndex": "DBM_P_ID",
+              "schema": "",
+              "name": "TEST3",
+              "type": "TABLE"
             }
           ],
           "DatabaseId": "4f1ce09d-d448-474d-b2f1-dfdedb49ab20",
